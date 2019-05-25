@@ -7,6 +7,10 @@
 - [BountyFactory](https://bountyfactory.io/)
 - [Intigriti](https://intigriti.be/)
 - [Bugbountyjp](https://bugbounty.jp/)
+- [Safehats](https://safehats.com/)
+- [BugbountyHQ](https://www.bugbountyhq.com/)
+- [Hackerhive](https://hackerhive.io/)
+- [Hackenproof](https://hackenproof.com/)
 
 
 **Invite based Platforms**
@@ -15,3 +19,6 @@
 - [Cobalt](https://cobalt.io/)
 - [Zerocopter](https://zerocopter.com/)
 - [Yogosha](https://www.yogosha.com/)
+- [Bugbountyzone](https://bugbountyzone.com/)
+- [Antihack.me](http://www.antihack.me/)
+- [Vulnscope](https://www.vulnscope.com/)
